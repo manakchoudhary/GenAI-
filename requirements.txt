@@ -1,0 +1,16 @@
+langchain
+torch
+accelerate
+bitsandbytes
+transformers
+streamlit
+sentence_transformers
+faiss_cpu
+chainlit
+ctransformers
+python-docx
+PyMuPDF
+pytesseract
+Pillow
+pandas
+python-pptx 
