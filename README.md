@@ -66,3 +66,10 @@ FAISS Storage: The vector database stores the embeddings for quick retrieval dur
 Prompt Engineering: The system uses pre-defined templates to craft input prompts, guiding Llama2 to generate the required metadata.
 
 Metadata Generation: The system retrieves relevant data from FAISS using RAG and produces the metadata and these data file automatically stores in vectorstores folder .
+
+Steps To Reproduce Result :
+1. Make sample_files folder where all in folder where all files present and put pdfs, docs, ppts etc in sample_files folder.
+2. Open project folder in VS code
+3. Open terminal
+4. setup virtual inviournment and activate it
+5. Run all files and run Streamlit_main.py and an web page inteference will open 
