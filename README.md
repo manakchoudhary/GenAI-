@@ -1,4 +1,4 @@
-# Automated-Metadata-Generation
+# Automated-Metadata-Generation-And-RAG-Techanics
 
 utils.py : contains all the functions required for creating vector db,  model and pipeline creation
 
